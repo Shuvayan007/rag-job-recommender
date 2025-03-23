@@ -27,7 +27,7 @@ A **Streamlit application** that helps job seekers find the most relevant openin
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/<your-username>/rag-job-search.git
+git clone https://github.com/Shuvayan007/rag-job-search.git
 cd rag-job-search
 ```
 
